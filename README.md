@@ -1,79 +1,71 @@
-<h1 align="center">👨‍💻 Leonardo David Velásquez</h1>
-<p align="center">Desarrollador Java Spring Boot | Apasionado por soluciones escalables y eficientes 🚀</p>
-
----
-
-### 🧠 Sobre mí
-
-Soy un desarrollador técnico enfocado en el desarrollo de aplicaciones backend usando **Java** y el ecosistema de **Spring**, con buen manejo de frontend usando **React**. Me gusta aprender continuamente, trabajar en equipo y enfrentar retos técnicos complejos.  
-
-📍 Actualmente vivo en **España**  
-🎓 Estudiante de Ingeniería de Software en **Immune Technology Institute**  
-💼 Experiencia profesional en **Sopra HR Software**
-
----
-
-### 🧰 Stack Técnico
-
-#### 🧩 1. Lenguajes de Programación
-- **Java** – Backend robusto, concurrencia, baja latencia.
-- **SQL** – Consultas y gestión de bases relacionales.
-- **Python** – Automatización, scripting, análisis de datos.
-- **HTML/CSS** – Estructura y diseño web semántico, responsivo.
-- **JavaScript** – Lógica web dinámica en frontend y backend.
-
-#### 🛠️ 2. Frameworks y Bibliotecas
-- **Spring Boot** – Backend rápido y modular.
-  - **Spring Security** – Seguridad y autenticación.
-  - **Spring MVC** – Arquitectura web estructurada.
-  - **Spring Data JPA** – Persistencia orientada a objetos.
-- **Lombok** – Código más limpio en Java.
-- **Thymeleaf** – Plantillas HTML dinámicas.
-- **CORS** – Políticas de seguridad en APIs.
-- **Bootstrap** – Componentes visuales responsivos.
-- **React** – UI dinámicas basadas en componentes.
-
-#### 🔄 3. Control de Versiones
-- **Git & GitHub** – Control y colaboración de código.
-
-#### 📦 4. Contenedores y Despliegue
-- **Docker** – Contenedores portables y escalables.
-- **Tomcat** – Servidor web Java embebido.
-
-#### 🗄️ 5. Bases de Datos
-- **MySQL** – Almacenamiento relacional.
-- **H2** – Base ligera para pruebas y desarrollo.
-
-#### 🧪 6. Herramientas
-- **IntelliJ** – IDE avanzado para Java.
-- **SQL Developer** – Consultas SQL visuales.
-- **VS Code** – Editor flexible con extensiones.
-- **Maven** – Gestión de dependencias y builds.
-- **Postman** – Testing de APIs REST/GraphQL.
-- **SonarQube** – Análisis de calidad de código.
-- **Jenkins** – Automatización de CI/CD.
-
-#### 📋 7. Habilidades Complementarias
-- **JUnit5** – Pruebas unitarias modernas.
-- **Mockito** – Simulación de objetos.
-- **JWT** – Autenticación segura sin estado.
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">Hola 👋, soy Leonardo David Velásquez</h1>
+<h3 align="center">Desarrollador Java Backend con enfoque en soluciones modernas y escalables</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo1velasquezz6&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo1velasquezz6&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB2&center=true&vCenter=true&multiline=true&width=435&lines=Desarrollador+Java+Spring+Boot;Apasionado+por+la+tecnolog%C3%ADa+y+el+crecimiento+constante;Amante+del+clean+code+y+los+retos+tech" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 Conecta conmigo
-
-- 📧 **Email:** leonardo1velasquezz6@gmail.com  
-- 💼 **LinkedIn:** [Leonardo David Velásquez](https://www.linkedin.com/in/leonardo-david-velásquez-monserrate-ba0777328/)
+### 🚀 Sobre mí
+Soy un desarrollador técnico con experiencia en desarrollo backend utilizando Java y Spring Boot, además de tener conocimientos en frontend con React. Me apasiona construir soluciones eficientes, limpias y seguras que aporten valor real a los usuarios. Actualmente curso Ingeniería en Desarrollo de Software y he trabajado en proyectos reales que me han permitido crecer profesional y personalmente.
 
 ---
 
-⭐ *Gracias por visitar mi perfil. ¡Sigo aprendiendo y creando todos los días!*
+### 🧰 Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,docker,git,github,mysql,python,html,css,javascript,postman,vscode,intellij,maven" />
+</p>
+
+---
+
+### 📚 Conocimientos detallados
+
+#### 1. Lenguajes de Programación
+- **Java** → Backend robusto, orientación a objetos, baja latencia y concurrencia.
+- **SQL** → Consultas y gestión de bases de datos relacionales.
+- **Python** → Automatización, scripting y análisis de datos.
+- **HTML & CSS** → Estructura semántica y diseño visual responsivo.
+- **JavaScript** → Lógica e interactividad frontend y backend (con React).
+
+#### 2. Frameworks y Bibliotecas
+- **Spring Boot**, **Spring MVC**, **Spring Security**, **Spring Data JPA**
+- **Lombok**, **Thymeleaf**, **Bootstrap**, **CORS**
+- **React** (Frontend en desarrollo)
+
+#### 3. Control de Versiones
+- **Git**, **GitHub**
+
+#### 4. Contenedores y Despliegue
+- **Docker**, **Tomcat**
+
+#### 5. Bases de Datos
+- **MySQL**, **H2**
+
+#### 6. Herramientas
+- **IntelliJ**, **SQL Developer**, **VS Code**, **Maven**, **Postman**, **SonarQube**, **Jenkins**
+
+#### 7. Habilidades Complementarias
+- **JUnit5**, **Mockito**, **JWT**
+
+---
+
+### 📈 Estadísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardovms&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovms&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- 📧 Correo: [leonardo1velasquezz6@gmail.com](mailto:leonardo1velasquezz6@gmail.com)
+- 💼 LinkedIn: [Leonardo Velásquez](https://www.linkedin.com/in/leonardo-david-velásquez-monserrate-ba0777328/)
+
+---
+
+> 🎯 *"El desarrollo continuo es mi responsabilidad, la mejora constante mi filosofía."*
+
