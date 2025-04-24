@@ -1,7 +1,7 @@
 <h1 align="center">Leonardo David Velásquez Monserrate</h1>
 
 <p align="center">
-  <b>Desarrollador Backend | Java · Spring Boot · React · Docker · CI/CD</b>
+  <b>Desarrollador Backend | Java · Spring Boot</b>
 </p>
 
 <p align="center">
