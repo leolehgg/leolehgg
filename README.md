@@ -1,71 +1,78 @@
-<h1 align="center">Hola 👋, soy Leonardo David Velásquez</h1>
-<h3 align="center">Desarrollador Java Backend con enfoque en soluciones modernas y escalables</h3>
+<!-- Encabezado bonito -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hola%20👋%20Soy%20Leonardo%20Velásquez&fontSize=40&fontColor=ffffff" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB2&center=true&vCenter=true&multiline=true&width=435&lines=Desarrollador+Java+Spring+Boot;Apasionado+por+la+tecnolog%C3%ADa+y+el+crecimiento+constante;Amante+del+clean+code+y+los+retos+tech" alt="Typing SVG" />
+  <b>💻 Backend Developer | ☕ Java Lover | 🛠️ Clean Code Defender</b>
 </p>
-
----
-
-### 🚀 Sobre mí
-Soy un desarrollador técnico con experiencia en desarrollo backend utilizando Java y Spring Boot, además de tener conocimientos en frontend con React. Me apasiona construir soluciones eficientes, limpias y seguras que aporten valor real a los usuarios. Actualmente curso Ingeniería en Desarrollo de Software y he trabajado en proyectos reales que me han permitido crecer profesional y personalmente.
-
----
-
-### 🧰 Tecnologías y Herramientas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,docker,git,github,mysql,python,html,css,javascript,postman,vscode,intellij,maven" />
-</p>
-
----
-
-### 📚 Conocimientos detallados
-
-#### 1. Lenguajes de Programación
-- **Java** → Backend robusto, orientación a objetos, baja latencia y concurrencia.
-- **SQL** → Consultas y gestión de bases de datos relacionales.
-- **Python** → Automatización, scripting y análisis de datos.
-- **HTML & CSS** → Estructura semántica y diseño visual responsivo.
-- **JavaScript** → Lógica e interactividad frontend y backend (con React).
-
-#### 2. Frameworks y Bibliotecas
-- **Spring Boot**, **Spring MVC**, **Spring Security**, **Spring Data JPA**
-- **Lombok**, **Thymeleaf**, **Bootstrap**, **CORS**
-- **React** (Frontend en desarrollo)
-
-#### 3. Control de Versiones
-- **Git**, **GitHub**
-
-#### 4. Contenedores y Despliegue
-- **Docker**, **Tomcat**
-
-#### 5. Bases de Datos
-- **MySQL**, **H2**
-
-#### 6. Herramientas
-- **IntelliJ**, **SQL Developer**, **VS Code**, **Maven**, **Postman**, **SonarQube**, **Jenkins**
-
-#### 7. Habilidades Complementarias
-- **JUnit5**, **Mockito**, **JWT**
-
----
-
-### 📈 Estadísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardovms&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovms&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AFFDE&center=true&vCenter=true&multiline=true&width=435&lines=Desarrollador+Java+Spring+Boot;Apasionado+por+la+tecnolog%C3%ADa+y+el+crecimiento+constante;Clean+Code+y+Arquitectura+Escalable;React+%7C+Docker+%7C+CI%2FCD" />
 </p>
 
 ---
 
-### 📫 Contacto
+## ✨ Sobre mí
 
-- 📧 Correo: [leonardo1velasquezz6@gmail.com](mailto:leonardo1velasquezz6@gmail.com)
-- 💼 LinkedIn: [Leonardo Velásquez](https://www.linkedin.com/in/leonardo-david-velásquez-monserrate-ba0777328/)
+🎯 Desarrollador técnico con experiencia profesional en **Java + Spring Boot**.  
+🚀 Apasionado por crear soluciones robustas, limpias y escalables.  
+📚 Actualmente cursando Ingeniería en Desarrollo de Software.  
+💬 Amante de los retos y del crecimiento constante.  
 
 ---
 
-> 🎯 *"El desarrollo continuo es mi responsabilidad, la mejora constante mi filosofía."*
+## 🧰 Tecnologías que uso
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,javascript,python,sql" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,mysql,h2,maven,git,github,vscode,intellij" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,sonarqube,jenkins,jwt" />
+</p>
+
+---
+
+## 🧠 Conocimientos Técnicos
+
+| Categoría              | Herramientas/Conceptos                                                                 |
+|------------------------|----------------------------------------------------------------------------------------|
+| **Lenguajes**          | Java, SQL, Python, JavaScript, HTML, CSS                                              |
+| **Backend**            | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Lombok, JWT                |
+| **Frontend**           | React (básico), Thymeleaf, Bootstrap                                                  |
+| **DevOps & Testing**   | Docker, Tomcat, Jenkins, JUnit5, Mockito, Postman, Maven                              |
+| **Bases de Datos**     | MySQL, H2                                                                              |
+| **Herramientas IDE**   | IntelliJ IDEA, VS Code, SQL Developer                                                 |
+| **Control de versiones** | Git, GitHub                                                                         |
+
+---
+
+## 📊 Mis estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardovms&show_icons=true&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardovms&theme=radical&hide_border=true" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovms&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:leonardo1velasquezz6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/leonardo-david-velásquez-monserrate-ba0777328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+</p>
 
