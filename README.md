@@ -27,7 +27,7 @@ Actualmente curso la Ingeniería en Desarrollo de Software y me sigo formando en
 
 ### Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,sql,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
 ### Backend & Frameworks
