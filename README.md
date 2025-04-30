@@ -8,7 +8,7 @@
   <a href="mailto:leonardo1velasquezz6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-leonardo1velasquezz6@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-david-velásquez-monserrate-ba0777328/" target="_blank">
+  <a href="https://www.linkedin.com/in/1velasquezz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -17,9 +17,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador backend con experiencia profesional construyendo aplicaciones empresariales utilizando **Java**, **Spring Boot** y tecnologías modernas como **Docker**, **JWT**, y **CI/CD**.  
-Mi enfoque está en desarrollar soluciones limpias, escalables y seguras, con buenas prácticas de desarrollo, integración continua y control de versiones.  
-Actualmente curso la Ingeniería en Desarrollo de Software y me sigo formando en tecnologías de frontend como **React**.
+Soy desarrollador backend con experiencia en Java y Spring Boot. Trabajo con APIs REST, bases de datos SQL, y herramientas como Docker y JWT para asegurar soluciones seguras y de alto rendimiento. Aunque mi enfoque principal es el backend, actualmente estoy ampliando mis conocimientos en frontend con React y aprendiendo Python. Me apasiona seguir aprendiendo y enfrentar nuevos retos para seguir mejorando como desarrollador y aportar valor a proyectos interesantes.
 
 ---
 
